@@ -3,7 +3,7 @@
 
 ### This code reads a xlsx file containing information about standard penetration test (SPT) and creates a DXF file with the drawing of all the boreholes listed on it with a legend.
 
-<img>https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_image.png</img>
+<img src=https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_image.png>
 
 
 <h5>XLSX file (borehole_example.xlsx)</h5>
@@ -36,7 +36,7 @@
 --- 
 <p1>The program associate the polylines with the hatch entities, so you can easily change the depth of the materials in a CAD application as showed bellow.</p1>
 
-![Associative Hatch](https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_associative.png)
+<img src=https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_associative.png>
 
 <h5>Requirements</h5>
 --- 
