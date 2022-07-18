@@ -1,4 +1,3 @@
-<div style="text-align: justify">
 <h1>Python Borehole DXF Creator</h1>
 
 ### This code reads a xlsx file containing information about standard penetration test (SPT) and creates a DXF file with the drawing of all the boreholes listed on it with a legend.
@@ -52,4 +51,3 @@
 
 <h6>If you liked it, please consider commenting on my [LinkedIn Profile](https://www.linkedin.com/in/marcus-paulo-zucareli-dias-rodrigues-734690105/?locale=en_US) </h6>
 
-</div>
