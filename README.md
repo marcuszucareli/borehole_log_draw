@@ -3,7 +3,7 @@
 
 ### This code reads a xlsx file containing information about standard penetration test (SPT) and creates a DXF file with the drawing of all the boreholes listed on it with a legend.
 
-![Associative Hatch](https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_image.png)
+<img>https://github.com/marcuszucareli/borehole_log_draw/static/DXF_log_image.png</img>
 
 
 <h5>XLSX file (borehole_example.xlsx)</h5>
