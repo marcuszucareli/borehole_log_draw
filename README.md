@@ -15,10 +15,10 @@
 | BH-02 | 0 | 2 | clay 1 |
 | BH-02 | 2 | 6 | rock |
 
-<p1>The guidelines to create the table is pretty simple. Each line of the file represents a layer of a different material, with the *initial_depth* and the *final_depth* of a given borehole. Everytime the material or the borehole changes, you add a new line. The 4  columns must be filled in order to run the program.</p1>
+<p1>The guidelines to create the table are pretty simple. Each line of the file represents a layer of a different material, with the *initial_depth* and the *final_depth* of a given borehole. Every time the material or the borehole changes, you add a new line. The 4  columns must be filled in order to run the program.</p1>
 
 
-<p1>⚠️  The name of the columns **MUST NOT BE CHANGED!!!** The program use it locate all the information needed to the drawing. I strongly recommend you to download the borehole_example.xlsx and just modify the data below the header.</p1>
+<p1>⚠️  The name of the columns **MUST NOT BE CHANGED!!!** The program uses it to locate all the information needed to the drawing. I strongly recommend you to download the borehole_example.xlsx and just modify the data below the header.</p1>
 
 <p1>⚠️  The depth must be indicated as positive numbers. The program will convert it to negative and draw it properly in the cartesian plan, considering 0.0 as the ground elevation of all boreholes.</p1>
 <br> 
@@ -33,7 +33,7 @@
 <br>  
 <h3>Associative HATCH</h3>
 
-<p1>The program associate the polylines with the hatch entities, so you can easily change the depth of the materials in a CAD application as showed bellow.</p1>
+<p1>The program associates the polylines with the hatch entities, so you can easily change the depth of the materials in a CAD application as showed bellow.</p1>
 
 <img src=/static/DXF_log_associative.png>
 <br> 
@@ -49,7 +49,7 @@
 <br>  
 <h3>Example</h3>
 
-<p1>The borehole_example.xlsx can be used to text the program. The result must be equal to the image listed bellow the title</p1>
+<p1>The borehole_example.xlsx can be used to test the program. The result must be equal to the image listed bellow the title</p1>
 
 <h6>If this was usefull for you, please consider commenting on my <a href="https://www.linkedin.com/in/marcus-paulo-zucareli-dias-rodrigues-734690105/?locale=en_US">LinkedIn Profile</a></h6>
 
