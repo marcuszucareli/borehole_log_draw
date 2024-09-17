@@ -8,7 +8,7 @@
 
 <p1>This is the file that will be used to store the borehole data you want to draw. The columns needed to run the program are listed in the table below with an example. </p1>
 
-| borehole_name | initial_depth | initial_depth | material |
+| borehole_name | initial_depth | final_depth | material |
 | --- | --- | --- | --- |
 | BH-01 | 0 | 1 | clay 1 |
 | BH-01 | 1 | 5,5 | clay 2 |
